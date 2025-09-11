@@ -21,5 +21,6 @@
 <a href="https://www.youtube.com/c/@rodrigozyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rodrigozyt" height="30" width="40" /></a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RodrigoEdit)](https://github.com/RodrigoEdit/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RodrigoEdit)](https://wakatime.com/@RodrigoEdit)
+
 
