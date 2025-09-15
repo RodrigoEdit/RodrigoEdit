@@ -23,3 +23,4 @@
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RodrigoEdit)](https://wakatime.com/@RodrigoEdit)
 
+![RodrigoEdit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoEdit&show_icons=true&theme=radical)
