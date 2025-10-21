@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **React , Angular**
+- 🌱 I’m currently learning **Python , Xml, Javascript, Odoo**
 
 - 📫 How to reach me **elgueraamadorodrigo@gmail.com**
 
