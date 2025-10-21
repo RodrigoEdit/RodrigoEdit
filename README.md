@@ -5,14 +5,6 @@
 
 - 🌱 I’m currently learning **React , Angular**
 
-- 👯 I’m looking to collaborate on **Alura Oracle**
-
-- 👨‍💻 All of my projects are available at [elgueraproyectos.site](elgueraproyectos.site)
-
-- 📝 I regularly write articles on [blog anime , websites](blog anime , websites)
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **elgueraamadorodrigo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
